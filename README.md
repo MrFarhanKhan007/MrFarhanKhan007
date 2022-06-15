@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farhan Khan
 - 👀 I’m interested in working on new projects and building games.
 - 💞️ I am curently pursuing my B.Tech CSE from Amity University,Noida and I'am in second semester cuurently.
-- 🌱 I’m completed my Java Basics and DSA from Coding Ninjas
+- 🌱 I’ve completed my Java Basics and DSA from Coding Ninjas
 - 📫 How to reach me @toxiclucien- Instagram
 
 <!---
