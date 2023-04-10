@@ -1,11 +1,11 @@
 ### Farhan Khan
 
-Hi there, I'm a college student and aspiring Android developer! 👋</h1> 
-Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University, and I am passionate about learning and exploring new technologies. My current focus is on Kotlin Android development 💻, and I am constantly working to improve my skills in this area.
+Hi there, I'm a college student and aspiring Android developer! 👋
+Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University,
+  and I am passionate about learning and exploring new technologies. My current focus is on Kotlin Android development 💻, and I am constantly working to improve my skills in this area.
 
-[`🏠 mrfarhankhan007.me`](https://maximousblk.me/)
-[`📫 mrfarhankhan007@gmail.com`](mailto:maximousblk@gmail.com)
-[`🐦 @mrfarhankhan007`](https://twitter.com/maximousblk)
+[`📫 mrfarhankhan007@gmail.com`](mailto:fk95034@gmail.com)
+[`🐦 @mrfarhankhan007`](https://twitter.com/Toxiclucien)
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
@@ -37,7 +37,4 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 - [**@{{ .Login }}**]({{ .URL }})
 {{- end }}
 
-### 📰 Recent Blog Posts
-{{ range rss "https://maximousblk.me/feed" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
+
