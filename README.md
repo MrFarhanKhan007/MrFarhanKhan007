@@ -1,4 +1,4 @@
-### Farhan Khan
+# Farhan Khan
 
 Hi there, I'm a college student and aspiring Android developer! 👋
 Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University,
@@ -10,7 +10,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
-- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - 
+- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
 - [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
 - [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
 - [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
@@ -18,7 +18,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 🌱 My latest projects
 
-- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - 
+- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
 - [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
 - [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
 - [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
@@ -42,6 +42,8 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### ⭐ Recent Stars
 
+- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
+- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
 - [MrFarhanKhan007/Coding_Ninja-My_IntelliJ_Coding_Files](https://github.com/MrFarhanKhan007/Coding_Ninja-My_IntelliJ_Coding_Files) - 
 - [MrFarhanKhan007/Coding-Ninja-JAVA](https://github.com/MrFarhanKhan007/Coding-Ninja-JAVA) - Coding Ninjas Java Basics and DSA Solution
 
