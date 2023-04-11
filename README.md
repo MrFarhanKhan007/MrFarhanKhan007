@@ -1,20 +1,11 @@
-# Farhan Khan
+### Farhan Khan
 
 Hi there, I'm a college student and aspiring Android developer! 👋
 Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University,
   and I am passionate about learning and exploring new technologies. My current focus is on Kotlin Android development 💻, and I am constantly working to improve my skills in this area.
 
-[![Email](https://img.shields.io/badge/Email-Gmail-red)](mailto:fk95034@gmail.com)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Toxiclucien?style=social)](https://twitter.com/Toxiclucien)
-
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/farhan-khan-415963224//)
-
-[![Google Dev Profile](https://img.shields.io/badge/Google%20Dev-Profile-orange?logo=google)](https://developers.google.com/profile/https://g.dev/mrfarhankhan007)
-
-[![Instagram Follow](https://img.shields.io/instagram/follow/mr.farhankhan._?style=social)](https://www.instagram.com/mr.farhankhan._/)
-
-
+[`📫 mrfarhankhan007@gmail.com`](mailto:fk95034@gmail.com)
+[`🐦 @mrfarhankhan007`](https://twitter.com/Toxiclucien)
 
 ### 👷 Check out what I'm currently working on
 
