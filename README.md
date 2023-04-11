@@ -1,4 +1,4 @@
-# Farhan Khan
+### Farhan Khan
 
 Hi there, I'm a college student and aspiring Android developer! 👋
 Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University,
