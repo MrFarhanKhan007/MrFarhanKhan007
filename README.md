@@ -24,6 +24,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 - [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
 - [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+            
 ### 🔨 My recent Pull Requests
 
 - [examples: add tower of hanoi](https://github.com/ashwinky/SEM3_DSA_C/pull/2) on [ashwinky/SEM3_DSA_C](https://github.com/ashwinky/SEM3_DSA_C)
