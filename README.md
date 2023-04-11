@@ -1,4 +1,4 @@
-# Farhan Khan
+### Farhan Khan
 
 Hi there, I'm a college student and aspiring Android developer! 👋
 Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University,
@@ -10,19 +10,19 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
+- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - 
 - [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
 - [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
 - [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
-- [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
 - [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
 
 ### 🌱 My latest projects
 
+- [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - 
 - [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
 - [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
 - [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
 - [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
-- [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
