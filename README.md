@@ -52,5 +52,8 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 - [**@iharshrana**](https://github.com/iharshrana)
 - [**@2001arnab**](https://github.com/2001arnab)
 - [**@blesnar99**](https://github.com/blesnar99)
+    
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
