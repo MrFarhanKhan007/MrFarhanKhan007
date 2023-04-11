@@ -42,5 +42,8 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 {{ range followers 5 }}
 - [**@{{ .Login }}**]({{ .URL }})
 {{- end }}
+    
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
