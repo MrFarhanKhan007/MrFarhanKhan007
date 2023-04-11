@@ -55,5 +55,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
     
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ ---
+[![](https://visitcount.itsvg.in/api?id=bhumireddy1&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
