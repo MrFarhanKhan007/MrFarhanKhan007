@@ -18,6 +18,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+            
 ### 🔨 My recent Pull Requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
