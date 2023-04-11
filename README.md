@@ -9,19 +9,19 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
-- [MrFarhanKhan007/Java_File_4thsem](https://github.com/MrFarhanKhan007/Java_File_4thsem) - 
-- [MrFarhanKhan007/cpp-assignment](https://github.com/MrFarhanKhan007/cpp-assignment) - 
-- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) - 
-- [MrFarhanKhan007/C-assignment](https://github.com/MrFarhanKhan007/C-assignment) - 
-- [ashwinky/SEM3_DSA_C](https://github.com/ashwinky/SEM3_DSA_C) - This repository contains the algorithms and data structures for the CSIT124 course.
+- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
+- [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
+- [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
+- [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
+- [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
 
 ### 🌱 My latest projects
 
-- [MrFarhanKhan007/Java_File_4thsem](https://github.com/MrFarhanKhan007/Java_File_4thsem) - 
-- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) - 
-- [MrFarhanKhan007/cpp-assignment](https://github.com/MrFarhanKhan007/cpp-assignment) - 
-- [MrFarhanKhan007/C-assignment](https://github.com/MrFarhanKhan007/C-assignment) - 
-- [MrFarhanKhan007/vincent](https://github.com/MrFarhanKhan007/vincent) - 
+- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
+- [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
+- [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
+- [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
+- [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -31,7 +31,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) [`Version1.2`](https://github.com/MrFarhanKhan007/Tasks-App/releases/tag/Version1.2) - 
+- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) [`Version1.2`](https://github.com/MrFarhanKhan007/Tasks-App/releases/tag/Version1.2) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
 - [MrFarhanKhan007/FMovieApp-AndroidStudio](https://github.com/MrFarhanKhan007/FMovieApp-AndroidStudio) [`1.2`](https://github.com/MrFarhanKhan007/FMovieApp-AndroidStudio/releases/tag/1.2) - Android Studio Code for my app
 
 ### ⭐ Recent Stars
