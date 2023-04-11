@@ -4,8 +4,9 @@ Hi there, I'm a college student and aspiring Android developer! 👋
 Welcome to my Github profile! I am currently in my 2nd year of college studying in Amity University,
   and I am passionate about learning and exploring new technologies. My current focus is on Kotlin Android development 💻, and I am constantly working to improve my skills in this area.
 
-[`📫 mrfarhankhan007@gmail.com`](mailto:fk95034@gmail.com)
-[`🐦 @mrfarhankhan007`](https://twitter.com/Toxiclucien)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.farhankhan._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhan-khan-415963224//) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Toxiclucien) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@toxiclucien) 
 
 ### 👷 Check out what I'm currently working on
 
