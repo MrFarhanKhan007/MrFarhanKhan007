@@ -11,7 +11,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 ### 👷 Check out what I'm currently working on
 
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
-- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
+- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - BusinessCardApp is a simple project that allows users to create and display a digital business card. This project is developed using Kotlin and is perfect for anyone who wants to create a professional-looking business card for themselves or their company
 - [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
 - [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
 - [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
@@ -19,7 +19,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 ### 🌱 My latest projects
 
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
-- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - 
+- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - BusinessCardApp is a simple project that allows users to create and display a digital business card. This project is developed using Kotlin and is perfect for anyone who wants to create a professional-looking business card for themselves or their company
 - [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
 - [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
 - [MrFarhanKhan007/ComposeArticle](https://github.com/MrFarhanKhan007/ComposeArticle) - 
