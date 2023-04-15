@@ -10,19 +10,19 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
+- [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
 - [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
 - [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - BusinessCardApp is a simple project that allows users to create and display a digital business card. This project is developed using Kotlin and is perfect for anyone who wants to create a professional-looking business card for themselves or their company
 - [MrFarhanKhan007/BirthdayCard](https://github.com/MrFarhanKhan007/BirthdayCard) - 
-- [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
 
 ### 🌱 My latest projects
 
+- [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
 - [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
 - [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - BusinessCardApp is a simple project that allows users to create and display a digital business card. This project is developed using Kotlin and is perfect for anyone who wants to create a professional-looking business card for themselves or their company
 - [MrFarhanKhan007/ComposeQuadrant](https://github.com/MrFarhanKhan007/ComposeQuadrant) - 
-- [MrFarhanKhan007/TaskManager](https://github.com/MrFarhanKhan007/TaskManager) - 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -37,6 +37,7 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 🔭 Latest releases I've contributed to
 
+- [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) [`Version1.0`](https://github.com/MrFarhanKhan007/TipTime/releases/tag/Version1.0) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
 - [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) [`Version1.0`](https://github.com/MrFarhanKhan007/LemonadeMakerApp/releases/tag/Version1.0) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) [`Version1.0`](https://github.com/MrFarhanKhan007/DiceRoller/releases/tag/Version1.0) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
 - [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) [`Version1.2`](https://github.com/MrFarhanKhan007/Tasks-App/releases/tag/Version1.2) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
@@ -44,10 +45,9 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### ⭐ Recent Stars
 
-- [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
+- [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
 - [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
-- [MrFarhanKhan007/Coding_Ninja-My_IntelliJ_Coding_Files](https://github.com/MrFarhanKhan007/Coding_Ninja-My_IntelliJ_Coding_Files) - 
 - [MrFarhanKhan007/Coding-Ninja-JAVA](https://github.com/MrFarhanKhan007/Coding-Ninja-JAVA) - Coding Ninjas Java Basics and DSA Solution
 
 ### 💖 Recent followers
