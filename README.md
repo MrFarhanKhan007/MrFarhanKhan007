@@ -10,11 +10,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
+- [MrFarhanKhan007/Java_File_4thsem](https://github.com/MrFarhanKhan007/Java_File_4thsem) - This GitHub repository contains Java files for the 4th semester of a computer science program. The files cover a range of topics, including data structures, algorithms, and object-oriented programming. The repository may be useful for students studying Java or anyone interested in learning more about computer science.
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 - [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
 - [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
 - [MrFarhanKhan007/DiceRoller](https://github.com/MrFarhanKhan007/DiceRoller) - DiceRoller is a simple and fun project that allows users to roll a virtual dice. The user-friendly interface of DiceRoller makes it easy to use and is perfect for both beginners and advanced users. With just a few clicks, users can roll the dice and receive random results. 
-- [MrFarhanKhan007/BusinessCardApp](https://github.com/MrFarhanKhan007/BusinessCardApp) - BusinessCardApp is a simple project that allows users to create and display a digital business card. This project is developed using Kotlin and is perfect for anyone who wants to create a professional-looking business card for themselves or their company
 
 ### 🌱 My latest projects
 
