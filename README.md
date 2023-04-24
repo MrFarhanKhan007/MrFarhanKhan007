@@ -10,19 +10,19 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
+- [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) - 
 - [MrFarhanKhan007/CoursesGrid](https://github.com/MrFarhanKhan007/CoursesGrid) - 
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 - [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
 - [MrFarhanKhan007/Java_File_4thsem](https://github.com/MrFarhanKhan007/Java_File_4thsem) - This GitHub repository contains Java files for the 4th semester of a computer science program. The files cover a range of topics, including data structures, algorithms, and object-oriented programming. The repository may be useful for students studying Java or anyone interested in learning more about computer science.
-- [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
 
 ### 🌱 My latest projects
 
+- [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) - 
 - [MrFarhanKhan007/CoursesGrid](https://github.com/MrFarhanKhan007/CoursesGrid) - 
 - [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 - [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
-- [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -37,11 +37,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 🔭 Latest releases I've contributed to
 
+- [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) [`1.0`](https://github.com/MrFarhanKhan007/WoofApp/releases/tag/1.0) - 
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) [`1.2`](https://github.com/MrFarhanKhan007/ArtSpaceGallery/releases/tag/1.2) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 - [MrFarhanKhan007/CoursesGrid](https://github.com/MrFarhanKhan007/CoursesGrid) [`1.0`](https://github.com/MrFarhanKhan007/CoursesGrid/releases/tag/1.0) - 
 - [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) [`1.0`](https://github.com/MrFarhanKhan007/AffirmationsApp/releases/tag/1.0) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
 - [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) [`Version1.0`](https://github.com/MrFarhanKhan007/TipTime/releases/tag/Version1.0) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
-- [MrFarhanKhan007/LemonadeMakerApp](https://github.com/MrFarhanKhan007/LemonadeMakerApp) [`Version1.0`](https://github.com/MrFarhanKhan007/LemonadeMakerApp/releases/tag/Version1.0) - The LemonadeMakerApp is  developed using Kotlin and Jetpack Compose. The app provides a static simulation for making lemonade drinks by clicking on several images. It offers a simple and engaging user interface for making virtual lemonade, making it a fun and entertaining experience for users.
 
 ### ⭐ Recent Stars
 
