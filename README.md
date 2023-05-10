@@ -10,19 +10,19 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
+- [MrFarhanKhan007/SuperHeroesApp](https://github.com/MrFarhanKhan007/SuperHeroesApp) - 
 - [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
 - [MrFarhanKhan007/Operatingsystem](https://github.com/MrFarhanKhan007/Operatingsystem) - 
 - [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) - 
-- [MrFarhanKhan007/CoursesGrid](https://github.com/MrFarhanKhan007/CoursesGrid) - 
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 
 ### 🌱 My latest projects
 
+- [MrFarhanKhan007/SuperHeroesApp](https://github.com/MrFarhanKhan007/SuperHeroesApp) - 
 - [MrFarhanKhan007/Operatingsystem](https://github.com/MrFarhanKhan007/Operatingsystem) - 
 - [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) - 
 - [MrFarhanKhan007/CoursesGrid](https://github.com/MrFarhanKhan007/CoursesGrid) - 
 - [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
-- [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -37,11 +37,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 🔭 Latest releases I've contributed to
 
+- [MrFarhanKhan007/SuperHeroesApp](https://github.com/MrFarhanKhan007/SuperHeroesApp) [`1.0`](https://github.com/MrFarhanKhan007/SuperHeroesApp/releases/tag/1.0) - 
 - [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) [`1.4`](https://github.com/MrFarhanKhan007/Tasks-App/releases/tag/1.4) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
 - [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) [`1.0`](https://github.com/MrFarhanKhan007/WoofApp/releases/tag/1.0) - 
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) [`1.2`](https://github.com/MrFarhanKhan007/ArtSpaceGallery/releases/tag/1.2) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 - [MrFarhanKhan007/CoursesGrid](https://github.com/MrFarhanKhan007/CoursesGrid) [`1.0`](https://github.com/MrFarhanKhan007/CoursesGrid/releases/tag/1.0) - 
-- [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) [`1.0`](https://github.com/MrFarhanKhan007/AffirmationsApp/releases/tag/1.0) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
 
 ### ⭐ Recent Stars
 
@@ -53,11 +53,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 💖 Recent followers
 
+- [**@amangupta201**](https://github.com/amangupta201)
 - [**@Supercool-1**](https://github.com/Supercool-1)
 - [**@bhumireddy1**](https://github.com/bhumireddy1)
 - [**@iharshrana**](https://github.com/iharshrana)
 - [**@2001arnab**](https://github.com/2001arnab)
-- [**@blesnar99**](https://github.com/blesnar99)
     
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
