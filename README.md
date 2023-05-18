@@ -45,11 +45,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### ⭐ Recent Stars
 
+- [MuhammadReda/nodejs-aws-lambda-image-resizer](https://github.com/MuhammadReda/nodejs-aws-lambda-image-resizer) - Dynamically resize images on the fly using AWS Lambda, Amazon S3 and Node.js
 - [MrFarhanKhan007/Chessin30days](https://github.com/MrFarhanKhan007/Chessin30days) - Welcome to Chessin30days, an Android app made using Kotlin and Jetpack Compose, designed to help chess hustlers learn some of the main chess openings in just one month!
 - [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
 - [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
 - [MrFarhanKhan007/TipTime](https://github.com/MrFarhanKhan007/TipTime) - TipTime is an Android app that simplifies the process of calculating tips at restaurants or other service industries. It features a user-friendly interface. Simply enter the bill amount and tip percentage to calculate the tip amount and total bill. TipTime is available for free
-- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
 
 ### 💖 Recent followers
 
