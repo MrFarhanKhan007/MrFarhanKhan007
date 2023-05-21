@@ -53,11 +53,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 💖 Recent followers
 
+- [**@k-bhatia2**](https://github.com/k-bhatia2)
 - [**@AryanNasty**](https://github.com/AryanNasty)
 - [**@amangupta201**](https://github.com/amangupta201)
 - [**@Supercool-1**](https://github.com/Supercool-1)
 - [**@bhumireddy1**](https://github.com/bhumireddy1)
-- [**@iharshrana**](https://github.com/iharshrana)
     
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
