@@ -18,11 +18,11 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 🌱 My latest projects
 
+- [MrFarhanKhan007/raceTrackerApp](https://github.com/MrFarhanKhan007/raceTrackerApp) - 
 - [MrFarhanKhan007/ImageResizerAzure](https://github.com/MrFarhanKhan007/ImageResizerAzure) - 
 - [MrFarhanKhan007/Unscramble](https://github.com/MrFarhanKhan007/Unscramble) - 
 - [MrFarhanKhan007/DessertClicker](https://github.com/MrFarhanKhan007/DessertClicker) - 
 - [MrFarhanKhan007/Chessin30days](https://github.com/MrFarhanKhan007/Chessin30days) - Welcome to Chessin30days, an Android app made using Kotlin and Jetpack Compose, designed to help chess hustlers learn some of the main chess openings in just one month!
-- [MrFarhanKhan007/SuperHeroesApp](https://github.com/MrFarhanKhan007/SuperHeroesApp) - 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
