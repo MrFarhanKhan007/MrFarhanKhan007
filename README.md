@@ -25,9 +25,9 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 - [MrFarhanKhan007/Unscramble](https://github.com/MrFarhanKhan007/Unscramble) - 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarhanKhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![mrfarhankhan007's Stats](https://github-readme-stats.vercel.app/api?username=mrfarhankhan007&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br/>
+![mrfarhankhan007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrfarhankhan007&theme=gotham&hide_border=false)<br/>
+![mrfarhankhan007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfarhankhan007&theme=gotham&show_icons=true&hide_border=false&layout=compact)
             
 ### 🔨 My recent Pull Requests
 
