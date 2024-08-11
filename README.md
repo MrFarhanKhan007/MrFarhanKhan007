@@ -10,19 +10,17 @@ Welcome to my Github profile! I am currently in my 2nd year of college studying 
 
 ### 👷 Check out what I'm currently working on
 
+- [MrFarhanKhan007/AirBnB-Clone](https://github.com/MrFarhanKhan007/airbnbClone) - 
+- [MrFarhanKhan007/FNews](https://github.com/MrFarhanKhan007/FNews) - 
 - [MrFarhanKhan007/serverless_url_shortener](https://github.com/MrFarhanKhan007/serverless_url_shortener) - 
-- [MrFarhanKhan007/AmphibiansApp](https://github.com/MrFarhanKhan007/AmphibiansApp) - 
-- [MrFarhanKhan007/ImageResizerAzure](https://github.com/MrFarhanKhan007/ImageResizerAzure) - 
-- [MrFarhanKhan007/DessertClicker](https://github.com/MrFarhanKhan007/DessertClicker) - 
-- [MrFarhanKhan007/Unscramble](https://github.com/MrFarhanKhan007/Unscramble) - 
+- [MrFarhanKhan007/FNotes](https://github.com/MrFarhanKhan007/FNotes) - 
 
 ### 🌱 My latest projects
 
-- [MrFarhanKhan007/AmphibiansApp](https://github.com/MrFarhanKhan007/AmphibiansApp) - 
-- [MrFarhanKhan007/raceTrackerApp](https://github.com/MrFarhanKhan007/raceTrackerApp) - 
+- [MrFarhanKhan007/AirBnB-Clone](https://github.com/MrFarhanKhan007/airbnbClone) - 
+- [MrFarhanKhan007/FNews](https://github.com/MrFarhanKhan007/FNews) - 
 - [MrFarhanKhan007/serverless_url_shortener](https://github.com/MrFarhanKhan007/serverless_url_shortener) - 
-- [MrFarhanKhan007/ImageResizerAzure](https://github.com/MrFarhanKhan007/ImageResizerAzure) - 
-- [MrFarhanKhan007/Unscramble](https://github.com/MrFarhanKhan007/Unscramble) - 
+- [MrFarhanKhan007/FNotes](https://github.com/MrFarhanKhan007/FNotes) - 
 
 ### 📊 GitHub Stats:
 ![mrfarhankhan007's Stats](https://github-readme-stats.vercel.app/api?username=mrfarhankhan007&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br/>
