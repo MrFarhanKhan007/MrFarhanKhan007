@@ -2,42 +2,92 @@
 
 ### Routing/IP Network Engineer | Python Automation | Learning Go
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrFarhanKhan007&label=Profile views&color=0e75b6&style=flat" alt="MrFarhanKhan007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrFarhanKhan007" alt="MrFarhanKhan007" /></a> </p>
-
-- 🔭 I'm currently working on **Network automation and testing using Python, along with exploring scalable networking systems and protocol-level implementations**
-
-- 🌱 I'm currently learning **Go (Golang), Network Automation, and System Design fundamentals**
-
-- 👯 I'm looking to collaborate on **Network automation tools, open-source networking projects, and backend systems**
-
-- 🤝 I'm looking for help with **Advanced system design, distributed systems, and scalable network architectures**
-
-- 💬 Ask me about **Networking (BGP, OSPF, MPLS), Python automation, and protocol-level concepts**
-
-- 📫 How to reach me **fk95034@gmail.com**
-
-- ⚡ Fun fact **I’ve won multiple university-level chess medals and approach debugging like a chess endgame**
-
-- 👨‍💻 All of my projects are available at **[https://mrfarhankhan007.vercel.app/](https://mrfarhankhan007.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/MrFarhanKhan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MrFarhanKhan007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrfarhankhan007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrfarhankhan007/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18815887/toxic-lucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18815887/toxic-lucien" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/toxiclucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/toxiclucien" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.farhankhan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.farhankhan._" height="30" width="40" /></a>
-<a href="https://twitter.com/Toxiclucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Toxiclucien" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/toxicLucien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/toxicLucien/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MrFarhanKhan007&label=Profile%20views&color=0e75b6&style=flat" alt="MrFarhanKhan007" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=MrFarhanKhan007&row=1&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true&theme=flat" alt="MrFarhanKhan007 trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFarhanKhan007&show_icons=true&locale=en&layout=compact" alt="MrFarhanKhan007" /></p>
+- 🔭 I'm currently working on **Network automation and testing using Python, along with exploring scalable networking systems and protocol-level implementations**
+- 🌱 I'm currently learning **Go (Golang), Network Automation, and System Design fundamentals**
+- 👯 I'm looking to collaborate on **Network automation tools, open-source networking projects, and backend systems**
+- 🤝 I'm looking for help with **Advanced system design, distributed systems, and scalable network architectures**
+- 💬 Ask me about **Networking (BGP, OSPF, MPLS), Python automation, and protocol-level concepts**
+- 📫 How to reach me: **fk95034@gmail.com**
+- ⚡ Fun fact: **I've won multiple university-level chess medals and approach debugging like a chess endgame**
+- 👨‍💻 All of my projects are available at **[mrfarhankhan007.vercel.app](https://mrfarhankhan007.vercel.app/)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&show_icons=true&locale=en" alt="MrFarhanKhan007" /></p>
+### Connect with me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007&" alt="MrFarhanKhan007" /></p>
+<p align="left">
+  <a href="https://github.com/MrFarhanKhan007" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MrFarhanKhan007" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mrfarhankhan007/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrfarhankhan007" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/18815887/toxic-lucien" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="toxic-lucien" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/toxiclucien" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="toxiclucien" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mr.farhankhan._" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.farhankhan._" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/Toxiclucien" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Toxiclucien" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/toxicLucien/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="toxicLucien" height="30" width="40" />
+  </a>
+</p>
+
+### Languages and Tools
+
+<p align="left">
+  <strong>Programming Languages</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,py,c,cpp,java,js,ts&perline=7" alt="programming-languages" />
+</p>
+
+<p>&nbsp;</p>
+
+<p align="left">
+  <strong>Tools and Skillset</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,linux,git,docker,jenkins,postgres,mysql,redis,postman,react,flutter,androidstudio,figma,firebase,azure,anaconda,tensorflow,pytorch,scikitlearn&perline=8" alt="tools-and-skillset" />
+</p>
+
+<br/>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFarhanKhan007&show_icons=true&locale=en&layout=compact" alt="MrFarhanKhan007" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&show_icons=true&locale=en" alt="MrFarhanKhan007" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007" alt="MrFarhanKhan007" />
+</p>
