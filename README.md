@@ -1,93 +1,114 @@
 # Hi 👋, I'm Farhan Khan
 
-### Routing/IP Network Engineer | Python Automation | Learning Go
+### 🚀 Routing/IP Network Engineer @ Ciena | Python Automation | Learning Go
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MrFarhanKhan007&label=Profile%20views&color=0e75b6&style=flat" alt="MrFarhanKhan007" />
+  <img src="https://komarev.com/ghpvc/?username=MrFarhanKhan007&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=MrFarhanKhan007&row=1&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true&theme=flat" alt="MrFarhanKhan007 trophies" />
-  </a>
-</p>
+---
 
-- 🔭 I'm currently working on **Network automation and testing using Python, along with exploring scalable networking systems and protocol-level implementations**
-- 🌱 I'm currently learning **Go (Golang), Network Automation, and System Design fundamentals**
-- 👯 I'm looking to collaborate on **Network automation tools, open-source networking projects, and backend systems**
-- 🤝 I'm looking for help with **Advanced system design, distributed systems, and scalable network architectures**
-- 💬 Ask me about **Networking (BGP, OSPF, MPLS), Python automation, and protocol-level concepts**
-- 📫 How to reach me: **fk95034@gmail.com**
-- ⚡ Fun fact: **I've won multiple university-level chess medals and approach debugging like a chess endgame**
-- 👨‍💻 All of my projects are available at **[mrfarhankhan007.vercel.app](https://mrfarhankhan007.vercel.app/)**
+## 💡 About Me
 
-### Connect with me
+- 🔭 Working on **Network Automation & Protocol-Level Testing (Python)**
+- 🌱 Learning **Go, Network Automation & System Design**
+- 🧠 Skilled in **BGP, OSPF, MPLS, VRF, QoS, IPv4/IPv6**
+- ⚙️ Experience with **NETCONF, Docker, Linux-based systems**
+- 👯 Open to **Networking / Automation / Backend collaborations**
+- 🏆 Chess Player — *2 Gold 🥇, 1 Silver 🥈, 1 Bronze 🥉 | Team Captain*
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/MrFarhanKhan007" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MrFarhanKhan007" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mrfarhankhan007/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mrfarhankhan007/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrfarhankhan007" height="30" width="40" />
+  <a href="mailto:fk95034@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/18815887/toxic-lucien" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="toxic-lucien" height="30" width="40" />
+  <a href="https://github.com/MrFarhanKhan007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/toxiclucien" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="toxiclucien" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mr.farhankhan._" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.farhankhan._" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/Toxiclucien" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Toxiclucien" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/toxicLucien/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="toxicLucien" height="30" width="40" />
+  <a href="https://leetcode.com/u/toxicLucien/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-### Languages and Tools
+---
 
-<p align="left">
-  <strong>Programming Languages</strong>
+## 🧠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,java,kotlin,js,ts,html,css" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,py,c,cpp,java,js,ts&perline=7" alt="programming-languages" />
+### 🌐 Networking & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
 </p>
 
-<p>&nbsp;</p>
-
-<p align="left">
-  <strong>Tools and Skillset</strong>
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,jenkins,postman,azure" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,git,docker,jenkins,postgres,mysql,redis,postman,react,flutter,androidstudio,figma,firebase,azure,anaconda,tensorflow,pytorch,scikitlearn&perline=8" alt="tools-and-skillset" />
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
-<br/>
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/huggingface" width="40"/>
+</p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40" />
+### 📊 Data Analysis
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
+</p>
+
+### 📱 Development (Past Experience)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,firebase,androidstudio" />
+</p>
+
+### 🎨 Design & Misc
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=photoshop,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFarhanKhan007&show_icons=true&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&show_icons=true" height="150"/>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFarhanKhan007&show_icons=true&locale=en&layout=compact" alt="MrFarhanKhan007" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&show_icons=true&locale=en" alt="MrFarhanKhan007" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007" alt="MrFarhanKhan007" />
-</p>
+## ⚡ Current Focus
+
+- 🔹 Network Automation using Python & Go  
+- 🔹 Scalable Routing/IP Systems  
+- 🔹 Backend + Infrastructure Engineering  
+
+---
+
+## 🎯 Fun Fact
+
+> I approach debugging like a chess endgame — calculated, patient, and one move ahead ♟️
