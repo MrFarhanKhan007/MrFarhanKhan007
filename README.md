@@ -42,12 +42,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,c,cpp,java,kotlin,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,kotlin,ts,c,cpp,js,html,css" />
 </p>
 
 ### 🌐 Networking & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash" />
 </p>
 
 ### ⚙️ DevOps & Tools
@@ -77,7 +77,7 @@
 
 ### 📱 Development (Past Experience)
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,firebase,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,react,flutter" />
 </p>
 
 ### 🎨 Design & Misc
