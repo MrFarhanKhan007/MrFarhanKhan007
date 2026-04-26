@@ -1,65 +1,43 @@
-# Farhan Khan
+# Hi 👋, I'm Farhan Khan
 
-Hi there, I'm a college student and aspiring Android developer! 👋
-Welcome to my Github profile! I am currently in my 4th year of college studying in Amity University,
-  and I am passionate about learning and exploring new technologies. My current focus is on Kotlin Android development 💻, and I am constantly working to improve my skills in this area.
+### Routing/IP Network Engineer | Python Automation | Learning Go
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.farhankhan._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhan-khan-415963224//) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Toxiclucien) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@toxiclucien) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrFarhanKhan007&label=Profile views&color=0e75b6&style=flat" alt="MrFarhanKhan007" /> </p>
 
-### 👷 Check out what I'm currently working on
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrFarhanKhan007" alt="MrFarhanKhan007" /></a> </p>
 
-- [MrFarhanKhan007/AirBnB-Clone](https://github.com/MrFarhanKhan007/airbnbClone) - 
-- [MrFarhanKhan007/FNews](https://github.com/MrFarhanKhan007/FNews) - 
-- [MrFarhanKhan007/serverless_url_shortener](https://github.com/MrFarhanKhan007/serverless_url_shortener) - 
-- [MrFarhanKhan007/FNotes](https://github.com/MrFarhanKhan007/FNotes) - 
+- 🔭 I'm currently working on **Network automation and testing using Python, along with exploring scalable networking systems and protocol-level implementations**
 
-### 🌱 My latest projects
+- 🌱 I'm currently learning **Go (Golang), Network Automation, and System Design fundamentals**
 
-- [MrFarhanKhan007/AirBnB-Clone](https://github.com/MrFarhanKhan007/airbnbClone) - 
-- [MrFarhanKhan007/FNews](https://github.com/MrFarhanKhan007/FNews) - 
-- [MrFarhanKhan007/serverless_url_shortener](https://github.com/MrFarhanKhan007/serverless_url_shortener) - 
-- [MrFarhanKhan007/FNotes](https://github.com/MrFarhanKhan007/FNotes) - 
+- 👯 I'm looking to collaborate on **Network automation tools, open-source networking projects, and backend systems**
 
-### 📊 GitHub Stats:
-![mrfarhankhan007's Stats](https://github-readme-stats.vercel.app/api?username=mrfarhankhan007&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br/>
-![mrfarhankhan007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrfarhankhan007&theme=gotham&hide_border=false)<br/>
-![mrfarhankhan007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfarhankhan007&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-            
-### 🔨 My recent Pull Requests
+- 🤝 I'm looking for help with **Advanced system design, distributed systems, and scalable network architectures**
 
-- [examples: add tower of hanoi](https://github.com/ashwinky/SEM3_DSA_C/pull/2) on [ashwinky/SEM3_DSA_C](https://github.com/ashwinky/SEM3_DSA_C)
-- [fix: change precedence rule from `&lt;=` to `&lt;`](https://github.com/ashwinky/SEM3_DSA_C/pull/1) on [ashwinky/SEM3_DSA_C](https://github.com/ashwinky/SEM3_DSA_C)
-- [Create FirstPullRequest](https://github.com/ashwinky/intro_to_git/pull/2) on [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git)
+- 💬 Ask me about **Networking (BGP, OSPF, MPLS), Python automation, and protocol-level concepts**
 
-### 🔭 Latest releases I've contributed to
+- 📫 How to reach me **fk95034@gmail.com**
 
-- [MrFarhanKhan007/DessertClicker](https://github.com/MrFarhanKhan007/DessertClicker) [`1.0`](https://github.com/MrFarhanKhan007/DessertClicker/releases/tag/1.0) - 
-- [MrFarhanKhan007/Chessin30days](https://github.com/MrFarhanKhan007/Chessin30days) [`1.0`](https://github.com/MrFarhanKhan007/Chessin30days/releases/tag/1.0) - Welcome to Chessin30days, an Android app made using Kotlin and Jetpack Compose, designed to help chess hustlers learn some of the main chess openings in just one month!
-- [MrFarhanKhan007/SuperHeroesApp](https://github.com/MrFarhanKhan007/SuperHeroesApp) [`1.0`](https://github.com/MrFarhanKhan007/SuperHeroesApp/releases/tag/1.0) - 
-- [MrFarhanKhan007/Tasks-App](https://github.com/MrFarhanKhan007/Tasks-App) [`1.4`](https://github.com/MrFarhanKhan007/Tasks-App/releases/tag/1.4) - The Tasks-App repository is a simple task management application built using Java. The application exhibits local database system CRUD operations. The app uses local storage to store tasks and has a clean and intuitive user interface. This repository may be useful for anyone interested in learning Java or building a simple task management app
-- [MrFarhanKhan007/WoofApp](https://github.com/MrFarhanKhan007/WoofApp) [`1.0`](https://github.com/MrFarhanKhan007/WoofApp/releases/tag/1.0) - 
+- ⚡ Fun fact **I’ve won multiple university-level chess medals and approach debugging like a chess endgame**
 
-### ⭐ Recent Stars
+- 👨‍💻 All of my projects are available at **[https://mrfarhankhan007.vercel.app/](https://mrfarhankhan007.vercel.app/)**
 
-- [1998code/shorten-url](https://github.com/1998code/shorten-url) - Magic Teleport - Shorten URL with Vercel KV
-- [MuhammadReda/nodejs-aws-lambda-image-resizer](https://github.com/MuhammadReda/nodejs-aws-lambda-image-resizer) - Dynamically resize images on the fly using AWS Lambda, Amazon S3 and Node.js
-- [MrFarhanKhan007/Chessin30days](https://github.com/MrFarhanKhan007/Chessin30days) - Welcome to Chessin30days, an Android app made using Kotlin and Jetpack Compose, designed to help chess hustlers learn some of the main chess openings in just one month!
-- [MrFarhanKhan007/AffirmationsApp](https://github.com/MrFarhanKhan007/AffirmationsApp) - AffirmationsApp is a simple mobile application that helps users to read positive affirmations daily. This app is designed to help users improve their self-esteem, reduce stress and anxiety, and achieve their goals.
-- [MrFarhanKhan007/ArtSpaceGallery](https://github.com/MrFarhanKhan007/ArtSpaceGallery) - This app is developed using Kotlin and Jetpack Compose and utilizing various Components of the Jetpack Compose. The app showcases images of Real Madrid players and the user can interact with the UI by clicking on Previous/Next button
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/MrFarhanKhan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MrFarhanKhan007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrfarhankhan007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrfarhankhan007/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18815887/toxic-lucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18815887/toxic-lucien" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/toxiclucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/toxiclucien" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.farhankhan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.farhankhan._" height="30" width="40" /></a>
+<a href="https://twitter.com/Toxiclucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Toxiclucien" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/toxicLucien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/toxicLucien/" height="30" width="40" /></a>
+</p>
 
-### 💖 Recent followers
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-- [**@k-bhatia2**](https://github.com/k-bhatia2)
-- [**@AryanNasty**](https://github.com/AryanNasty)
-- [**@amangupta201**](https://github.com/amangupta201)
-- [**@Supercool-1**](https://github.com/Supercool-1)
-- [**@bhumireddy1**](https://github.com/bhumireddy1)
-    
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- ---
-[![](https://visitcount.itsvg.in/api?id=bhumireddy1&icon=2&color=0)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrFarhanKhan007&show_icons=true&locale=en&layout=compact" alt="MrFarhanKhan007" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrFarhanKhan007&show_icons=true&locale=en" alt="MrFarhanKhan007" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrFarhanKhan007&" alt="MrFarhanKhan007" /></p>
